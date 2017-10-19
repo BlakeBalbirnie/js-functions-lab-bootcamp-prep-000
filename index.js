@@ -5,6 +5,6 @@ function happyHolidays(string) {
 
 var name = 'you'
 
-function happyHolidaysTo(string) {
+function happyHolidaysTo${Name}(string) {
   return "Happy holidays, ${name}!"
 }
